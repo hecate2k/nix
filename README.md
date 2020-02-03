@@ -1,6 +1,5 @@
-# **NIXX**
-
 ---
+NIXX
 LINK SPRE APLICATIE
 ---
 https://moga.cristi.club/
