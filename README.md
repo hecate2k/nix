@@ -1,4 +1,11 @@
 # **NIXX**
+
+---
+LINK SPRE APLICATIE
+---
+https://moga.cristi.club/
+
+
 ### AUTOR : AMADEUS MOGA
 ##### Scurta descriere : aplicatie pentru anunturi online
 ##### Compatibilitate : browser
