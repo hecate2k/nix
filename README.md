@@ -1,9 +1,6 @@
 # **NIXX**
 ### AUTOR : AMADEUS MOGA
 ##### Scurta descriere : aplicatie pentru anunturi online
-
-![image](https://github.com/hecate2k/nix/blob/master/gitImages/pic1.PNG) ![image2](https://github.com/hecate2k/nix/blob/master/gitImages/pic2.PNG) ![image3](https://github.com/hecate2k/nix/blob/master/gitImages/pic3.PNG)
-
 ##### Compatibilitate : browser
 ##### Ruleaza pe : android si IOS ( pe iOS posibile buguri vizuale, datorita flexBoxului)
 ##### Rezolutii optime : latime mai mare de 320px, si mai mica de 800px
@@ -29,3 +26,5 @@
 
   - *rezolvat erori cu bucatele de pe diferite topicuri stackoverflow*
   - *hook pentru componentWillMount*
+
+![image](https://github.com/hecate2k/nix/blob/master/gitImages/pic1.PNG) ![image2](https://github.com/hecate2k/nix/blob/master/gitImages/pic2.PNG) ![image3](https://github.com/hecate2k/nix/blob/master/gitImages/pic3.PNG) ![profile](https://github.com/hecate2k/nix/blob/master/gitImages/profil.PNG)
