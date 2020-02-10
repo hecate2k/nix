@@ -6,7 +6,8 @@ https://moga.cristi.club/
 
 
 ### AUTOR : AMADEUS MOGA
-##### Scurta descriere : aplicatie pentru anunturi online
+##### Scurta descriere : Scurta descriere : aplicatie pentru postare de anunturi online. Aplicatia ruleaza pe web, si este optimmizata pentru telefoane peste 320px latime. Aceasta are in spate o baza de date in care se stocheaza anunturile si datele utilizatorului. Utilizatorul isi poate crea un cont, se poate loga, poate schimba imaginea de profil si cea de cover, si poate posta anunturi gratuit online. Pe pagina de home apar un banner informativ, ultimele 10 anunturi cele mai recente si numarul total de anunturi postate pana in momentul respectiv. Pentru a afisa o lista cu anunturi se poate accesata meniul din partea de sus dreapta. Alte pagini prezente in aplicatie sunt: pagina de eroare 404, in caz ca utilizatorul a intrat pe o pagina inexistenta, o pagina de about, in care sunt scrise date despre aplicatie si despre autorul acesteia si credits. Aplicatia este in faza beta, si nu toate functionalitatile sunt cum ar trebui sa fie, sau lipsesc momentan.
+
 ##### Compatibilitate : browser
 ##### Ruleaza pe : android si IOS ( pe iOS posibile buguri vizuale, datorita flexBoxului)
 ##### Rezolutii optime : latime mai mare de 320px, si mai mica de 800px
