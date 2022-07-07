@@ -11,7 +11,7 @@
     "@testing-library/user-event": "^7.1.2",
     "axios": "^0.19.2",
     "history": "^4.10.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "qs": "^6.9.1",
     "react": "^16.12.0",
     "react-animated-modal": "^1.1.1",
